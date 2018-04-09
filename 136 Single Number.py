@@ -8,5 +8,5 @@ class Solution(object):
                 nums_dict[i] = 1
         return nums_dict.keys()[0]
     
-# try except, pop(), popitem()
-# Time: dict -- Hash Table, search O(1), if in O(n) --> O(n)
+# or use try & except, pop(), popitem()
+# Time Cmplxty: dict -- Hash Table, search O(1), if in O(n) --> O(n)
