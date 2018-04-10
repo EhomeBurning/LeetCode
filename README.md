@@ -10,3 +10,8 @@
 
 
 **4.10** <br>
+171 Excel Sheet Column Number <br>
+13	Roman to Integer   <br>
+22	Generate Parentheses    <br>
+169	Majority Element  <br>
+122	Best Time to Buy and Sell Stock II    <br>
