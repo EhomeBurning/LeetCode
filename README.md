@@ -15,3 +15,11 @@
 22	Generate Parentheses    <br>
 169	Majority Element  <br>
 122	Best Time to Buy and Sell Stock II    <br>
+
+
+**4.11** <br>
+242	Valid Anagram    <br>
+46	Permutations   <br> 
+47	Permutations Ⅱ   <br> 
+237	Delete Node in a Linked List <br>
+217	Contains Duplicate    <br>
