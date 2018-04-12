@@ -23,3 +23,10 @@
 47	Permutations Ⅱ   <br> 
 237	Delete Node in a Linked List <br>
 217	Contains Duplicate    <br>
+
+**4.12** <br>
+206	Reverse Linked List <br>
+230	Kth Smallest Element in a BST   <br>  
+268	Missing Number <br>
+78  Subsets      <br>
+108	Convert Sorted Array to Binary Search Tree   <br> 
