@@ -30,3 +30,10 @@
 268	Missing Number <br>
 78  Subsets <br>
 108	Convert Sorted Array to Binary Search Tree   <br> 
+
+**4.14** <br>
+388 Longest Absolute File Path <br>
+346 Moving Average from Data Stream <br>
+271 Encode and Decode Strings <br>
+65 Valid Number <br>
+163 Missing Ranges <br>
