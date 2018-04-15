@@ -37,3 +37,10 @@
 271 Encode and Decode Strings <br>
 65 Valid Number <br>
 163 Missing Ranges <br>
+
+**4.15** <br>
+121 Best Time to Buy and Sell Stock <br>
+438 Find All Anagrams in a String <br>
+408	Valid Word Abbreviation <br>
+288	Unique Word Abbreviation <br>
+128	Longest Consecutive Sequence <br>
