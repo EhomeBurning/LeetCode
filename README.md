@@ -31,6 +31,9 @@
 78  Subsets <br>
 108	Convert Sorted Array to Binary Search Tree   <br> 
 
+**4.13** <br>
+Lazy Me <br>
+
 **4.14** <br>
 388 Longest Absolute File Path <br>
 346 Moving Average from Data Stream <br>
