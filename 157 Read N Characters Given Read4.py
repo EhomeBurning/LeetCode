@@ -6,7 +6,7 @@ class Solution:
     # @return {int} the number of characters read
     def read(self, buf, n):
         # Write your code here
-        idx = 0
+        cnt = 0
         while cnt < n:
             tmp_buf = ""
             num = read(tmp_buf)
