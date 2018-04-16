@@ -47,3 +47,10 @@ Lazy Me <br>
 408	Valid Word Abbreviation <br>
 288	Unique Word Abbreviation <br>
 128	Longest Consecutive Sequence <br>
+
+**4.16** <br>
+157 Read N Characters Given Read4 <br>
+158 Read N Characters Given Read4 -multiple calls <br>
+277 Find the Celebrity <br>
+202 Happy Number <br>
+26 Remove Duplicates from Sorted Array <br>
