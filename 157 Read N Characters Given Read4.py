@@ -9,7 +9,7 @@ class Solution:
         cnt = 0
         while cnt < n:
             tmp_buf = ""
-            num = read(tmp_buf)
+            num = read4(tmp_buf)
             if num == 0:
                 break
             else:
