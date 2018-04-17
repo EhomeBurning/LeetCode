@@ -54,3 +54,10 @@ Lazy Me <br>
 277 Find the Celebrity <br>
 202 Happy Number <br>
 26 Remove Duplicates from Sorted Array <br>
+
+**4.16**  Tag: Hash table <br>
+1 Two Sum <br>
+219 Contains Duplicate II <br>
+205 Isomorphic Strings <br>
+290 Word Pattern <br>
+204 Count Primes <br>
