@@ -62,7 +62,7 @@ Lazy Me <br>
 290 Word Pattern <br>
 204 Count Primes <br>
 
-**4.17**  **Tag: Hash table** <br>
+**4.18**  **Tag: Hash table** <br>
 187 Repeated DNA Sequences <br>
 274 H-Index <br>
 299 Bulls and Cows <br>
