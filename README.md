@@ -68,3 +68,10 @@ Lazy Me <br>
 299 Bulls and Cows <br>
 36 Valid Sudoku <br>
 49 Group Anagrams <br>
+
+**4.19** **Tag: Array** <br>
+62 Unique Paths <br>
+27 Remove Element <br>
+287 Find the Duplicate Number <br>
+216 Combination Sum III
+167 Two Sum II - Input array is sorted
