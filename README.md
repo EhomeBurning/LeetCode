@@ -75,3 +75,10 @@ Lazy Me <br>
 287 Find the Duplicate Number <br>
 216 Combination Sum III <br>
 167 Two Sum II - Input array is sorted <br>
+
+**4.19** **Devide and Conquer & DFS** <br>
+374 Guess Number Higher or Lower <br>
+8 String to Integer (atoi) <br>
+538 Convert BST to Greater Tree <br>
+285 Inorder Successor in BST <br>
+140 word break II <br>
