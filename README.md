@@ -82,3 +82,10 @@ Lazy Me <br>
 538 Convert BST to Greater Tree <br>
 285 Inorder Successor in BST <br>
 140 word break II <br>
+
+**4.22** **DFS&BFS** <br>
+17 Letter Combinations of a Phone Number <br>
+425 Word Squares <br>
+282 Expression Add Operators <br>
+130 Surrounded Regions <br>
+286 Walls and Gates <br>
