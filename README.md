@@ -36,22 +36,22 @@ Lazy Me <br>
 
 **4.14** <br>
 388 Longest Absolute File Path <br>
-346 Moving Average from Data Stream <br>
-271 Encode and Decode Strings <br>
+346-642 Moving Average from Data Stream <br>
+271-659 Encode and Decode Strings <br>
 65 Valid Number <br>
-163 Missing Ranges <br>
+163-641 Missing Ranges <br>
 
 **4.15** <br>
 121 Best Time to Buy and Sell Stock <br>
 438 Find All Anagrams in a String <br>
-408	Valid Word Abbreviation <br>
-288	Unique Word Abbreviation <br>
+408-639	Valid Word Abbreviation <br>
+288-648	Unique Word Abbreviation <br>
 128	Longest Consecutive Sequence <br>
 
 **4.16** <br>
-157 Read N Characters Given Read4 <br>
-158 Read N Characters Given Read4 -multiple calls <br>
-277 Find the Celebrity <br>
+157-null Read N Characters Given Read4 <br>
+158-660 Read N Characters Given Read4 -multiple calls <br>
+277-645 Find the Celebrity <br>
 202 Happy Number <br>
 26 Remove Duplicates from Sorted Array <br>
 
@@ -80,12 +80,12 @@ Lazy Me <br>
 374 Guess Number Higher or Lower <br>
 8 String to Integer (atoi) <br>
 538 Convert BST to Greater Tree <br>
-285 Inorder Successor in BST <br>
+285-448 Inorder Successor in BST <br>
 140 word break II <br>
 
 **4.22** **DFS&BFS** <br>
 17 Letter Combinations of a Phone Number <br>
-425 Word Squares <br>
+425-634 Word Squares <br>
 282 Expression Add Operators <br>
 130 Surrounded Regions <br>
-286 Walls and Gates <br>
+286 Walls and Gates-663 <br>
