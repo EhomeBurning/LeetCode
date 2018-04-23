@@ -89,3 +89,10 @@ Lazy Me <br>
 282 Expression Add Operators <br>
 130 Surrounded Regions <br>
 286-663 Walls and Gates <br>
+
+**4.23** <br>
+254 Factor Combinations (存疑) <br>
+191 Number of 1 Bits <br>
+53 Maximum Subarray <br>
+66 Plus One <br>
+7 Reverse Integer <br>
