@@ -96,3 +96,10 @@ Lazy Me <br>
 53 Maximum Subarray <br>
 66 Plus One <br>
 7 Reverse Integer <br>
+
+**4.24**  <br>
+172 Factorial Trailing Zeroes<br>
+14 Longest Common Prefix<br>
+69 Sqrt(x)<br>
+100 Same Tree<br>
+101 Symmetric Tree<br>
