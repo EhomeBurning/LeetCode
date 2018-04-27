@@ -103,3 +103,10 @@ Lazy Me <br>
 69 Sqrt(x)<br>
 100 Same Tree<br>
 101 Symmetric Tree<br>
+
+**4.26** <br>
+21 Merge Two Sorted Lists <br>
+70 Climbing Stairs <br>
+118 Pascal's Triangle <br>
+38 Count and Say <br>
+141 Linked List Cycle <br>
