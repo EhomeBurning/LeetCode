@@ -107,3 +107,10 @@
 118 Pascal's Triangle <br>
 38 Count and Say <br>
 141 Linked List Cycle <br>
+
+**4.27** <br>
+20 Valid Parentheses<br>
+28 Implement strStr()<br>
+88 Merge Sorted Array<br>
+125 Valid Palindrome<br>
+155 Min Stack<br>
