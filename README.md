@@ -114,3 +114,10 @@
 88 Merge Sorted Array<br>
 125 Valid Palindrome<br>
 155 Min Stack<br>
+
+**4.28** <br>
+9 Palindrome Number <br>
+35 Search Insert Position <br>
+58 Length of Last Word <br>
+12 Integer to Roman <br>
+50 Pow(x, n)<br>
