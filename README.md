@@ -121,3 +121,10 @@
 58 Length of Last Word <br>
 12 Integer to Roman <br>
 50 Pow(x, n)<br>
+
+**4.29** <br>
+48 Rotate Image <br> 
+311 Sparse Matrix Multiplication <br>
+415 Add Strings <br>
+43 Multiply Strings <br>
+258 Add Digits <br>
