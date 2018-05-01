@@ -23,3 +23,4 @@ class Solution(object):
         res[depth].append(root.val)
         self.dfs(root.left, depth+1, res)
         self.dfs(root.right, depth+1, res)
+#DFS
