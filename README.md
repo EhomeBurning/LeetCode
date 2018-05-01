@@ -128,3 +128,10 @@
 415 Add Strings <br>
 43 Multiply Strings <br>
 258 Add Digits <br>
+
+**4.30** <br>
+67 Add Binary <br>
+83 Remove Duplicates from Sorted List <br>
+102 Binary Tree Level Order Traversal <br>
+107 Binary Tree Level Order Traversal II <br>
+111 Minimum Depth of Binary Tree <br>
