@@ -135,3 +135,10 @@
 102 Binary Tree Level Order Traversal <br>
 107 Binary Tree Level Order Traversal II <br>
 111 Minimum Depth of Binary Tree <br>
+
+**5.1** <br> Happy May Day!
+110 Balanced Binary Tree <br>
+112 Path Sum <br>
+113 Path Sum II <br>
+257 Binary Tree Paths <br>
+226 Invert Binary Tree <br>
