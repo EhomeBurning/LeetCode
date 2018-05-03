@@ -1,7 +1,7 @@
 # LeetCode
 *Solutions of LeetCode Problems with Python.*
 
-#### Week 1
+### Week 1 
 **4.9** <br>
 136	Single Number <br>
 104	Maximum Depth of Binary Tree <br> 
@@ -67,6 +67,7 @@
 36 Valid Sudoku <br>
 49 Group Anagrams <br>
 
+### Week 2
 **4.19** **Tag: Array** <br>
 62 Unique Paths <br>
 27 Remove Element <br>
@@ -102,6 +103,7 @@
 100 Same Tree<br>
 101 Symmetric Tree<br>
 
+### Week 3 
 **4.26** <br>
 21 Merge Two Sorted Lists <br>
 70 Climbing Stairs <br>
