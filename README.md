@@ -1,7 +1,7 @@
 # LeetCode
 *Solutions of LeetCode Problems with Python.*
 
-####Week 1
+#### Week 1
 **4.9** <br>
 136	Single Number <br>
 104	Maximum Depth of Binary Tree <br> 
