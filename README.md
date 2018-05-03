@@ -46,6 +46,7 @@
 288-648	Unique Word Abbreviation <br>
 128	Longest Consecutive Sequence <br>
 
+### Week 2
 **4.16** <br>
 157-null Read N Characters Given Read4 <br>
 158-660 Read N Characters Given Read4 -multiple calls <br>
@@ -67,7 +68,6 @@
 36 Valid Sudoku <br>
 49 Group Anagrams <br>
 
-### Week 2
 **4.19** **Tag: Array** <br>
 62 Unique Paths <br>
 27 Remove Element <br>
@@ -89,6 +89,7 @@
 130 Surrounded Regions <br>
 286-663 Walls and Gates <br>
 
+### Week 3
 **4.23** <br>
 254 Factor Combinations (存疑) <br>
 191 Number of 1 Bits <br>
@@ -103,7 +104,6 @@
 100 Same Tree<br>
 101 Symmetric Tree<br>
 
-### Week 3 
 **4.26** <br>
 21 Merge Two Sorted Lists <br>
 70 Climbing Stairs <br>
@@ -132,6 +132,7 @@
 43 Multiply Strings <br>
 258 Add Digits <br>
 
+### Week 4 
 **4.30** <br>
 67 Add Binary <br>
 83 Remove Duplicates from Sorted List <br>
