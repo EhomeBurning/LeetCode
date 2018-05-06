@@ -1,6 +1,7 @@
 # LeetCode
-*Solutions of LeetCode Problems with Python.*
+*Solutions of LeetCode Problems with Python/SQL.*
 
+-------------------ALGORITHMS----------------- <br>
 ### Week 1 
 **4.9** <br>
 136	Single Number <br>
@@ -150,3 +151,12 @@
 **5.3** DP <br>
 198 House Robber <br>
 213 House Robber II <br>
+
+
+-------------------DATABASE----------------- <br>
+**5.5** <br>
+595 Big Countries <br>
+
+**5.6** 
+627. Swap Salary <br>
+
