@@ -157,6 +157,6 @@
 **5.5** <br>
 595 Big Countries <br>
 
-**5.6** 
+**5.6** <br>
 627. Swap Salary <br>
 
