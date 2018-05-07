@@ -158,5 +158,7 @@
 595 Big Countries <br>
 
 **5.6** <br>
-627. Swap Salary <br>
+627 Swap Salary <br>
 
+**5.7** <br>
+620 Not Boring Movies <br>
